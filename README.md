@@ -4,8 +4,8 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/muhammad-sandy-355983149/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_deni" height="30" width="40" /> </a>  
-<a href="https://www.instagram.com/msandypr/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="Ins_deni" height="30" width="40" /> </a>
-<a href="https://www.facebook.com/msandypr/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Deni Gunawan" height="30" width="40" /> </a>
+<a href="https://www.instagram.com/msandypr/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="msandypr" height="30" width="40" /> </a>
+<a href="https://www.facebook.com/msandypr/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Sandy Riyadi" height="30" width="40" /> </a>
  <a href = "mailto: msandypr@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a></p>
 
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-   Hello I`m Muhammad Sandy P.R., Call me Sandy. I`m is a Child who dreaming to become a Programmer
+   Hello I`m Muhammad Sandy P.R., Call me Sandy. I`m a Child who dreaming to become a Programmer
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Nothing Last Forever We Can Change The Future”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />

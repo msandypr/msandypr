@@ -30,26 +30,6 @@
 ✔ Fun fact : *I always work hard and always study until I'm tired* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*** Working Tools...***
-<p align="left">
-  
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
-    <code> <img height="60" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
-
-
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>

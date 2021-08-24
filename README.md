@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Sandy P.R. </h1>
-<h3 align="center"> Junior Programmer | Youtubers </h3>
+<h3 align="center"> Junior Programmer</h3>
 
 
 <p align="center"> 
@@ -13,10 +13,10 @@
 
 <p align="center">
   <em>
-   Hello I`m Muhammad Sandy P.R., Call me Sandy. I`m a Child who dreaming to become a Programmer
+   Hello I`m Muhammad Sandy P.R., Call me Sandy. I`m a young man who dreaming to become a Expert Programmer
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Nothing Last Forever We Can Change The Future”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -24,7 +24,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me ....***
 
 ✔ Callme: ***Sandy or Anything u want :)***😊 <br>
-✔ I’m currently Studying on STIKOM El Rahma Bogor <br>
 ✔ I’m currently learning about **Web Development**<br>
 ✔ I’m looking to collaborate with any **Open - Source web projects**<br>
 ✔ Fun fact : *I always work hard and always study until I'm tired* 😎<br><br><br><br>

@@ -16,7 +16,7 @@
    Hello I`m Muhammad Sandy P.R., Call me Sandy. I`m a young man who dreaming to become a Expert Programmer
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <b><i align="center">Thought : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”</i></b> 
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />

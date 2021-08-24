@@ -19,7 +19,7 @@
   <b><i align="center">Thought : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”</i></b> 
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/L3LFACHXVtFWktoYtE/giphy.gif?cid=ecf05e478cyflltjsmpypq4twifpz379bup85wzqbix73enn&rid=giphy.gif&ct=s" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me ....***
 

@@ -3,8 +3,8 @@
 
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/muhammad-sandy-355983149/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedinsandy" height="30" width="40" /> </a>  
-<a href="https://www.instagram.com/msandypr/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="igmsandypr" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/muhammad-sandy-355983149/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedinsandy" height="30" width="40" /> </a>  
+<a href="https://www.instagram.com/msandypr/" target="blank"><img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="igmsandypr" height="30" width="40" /> </a>
  <a href = "mailto: msandypr@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a></p>
 
 

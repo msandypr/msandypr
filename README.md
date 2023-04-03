@@ -1,46 +1,46 @@
-## Hi there 👋
-
-My Name is Muhammad Sandy Putra Riyadi, just call me Sandy, 19 y.o, I'm from Bogor, West Java, Indonesia.
-
-## My Github Stats
-
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=msandypr&show_icons=true&theme=tokyonight)](https://github.com/msandypr)
-
-## Let`s connect with me :D
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msandypr/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msandypr/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/msandypr)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/884592049314222141/)
-
-## My Programming Skills
-
-<p>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-    <a href="http://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a>
-    <a href="http://codeigniter.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="reactjs" width="40" height="40" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1056672938604122234/1092499926509953184/Sandy_Logo_White.png" height="60px"/>
 </p>
+<h4 align="center" id="begin"><samp>• Hello World!, I'm <b><a>Muhammad Sandy Putra Riyadi</a> •</b></h4>
+<h4 align="center" id="begin"><samp><b><a href="https://msandypr.com">msandypr.com</a></h4>
 
-<!--
-**msandypr/msandypr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><b>&#9487</b></p>
 
-Here are some ideas to get you started:
+<p align="center"><samp>
+Software Engineer • Cloud Engineer
+<br>
+Currently Working as SysAdmin in <b><a href="#">Green Hosting</a></b>
+</samp></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center" id="details">
+   <p align="center">
+     <p><b><samp>My Skills</samp></b></p></b>
+     <p align="center">
+     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%E34F26.svg?&style=for-the-badge&color=orange&logo=html5&logoColor=white"/></a>
+     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=css3&logoColor=white"/></a>
+     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%E34F26.svg?&style=for-the-badge&color=yellow&logo=JavaScript&logoColor=white"/></a>
+<!-- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a> -->
+     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%E34F26.svg?&style=for-the-badge&color=purple&logo=php&logoColor=white"/></a>
+     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=python&logoColor=white"/></a>
+     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+     <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP%20-%E34F26.svg?&style=for-the-badge&color=red&logo=googlecloud&logoColor=white"/></a>
+     </p>
+     <p id="med"><b><samp>My Social Media</samp></b></p>
+     <p align="center">
+     <a href="https://www.instagram.com/msandypr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+     <a href="https://www.linkedin.com/in/msandypr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://twitter.com/msandypr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+     </p>
+     <p id="med"><b><samp>My Github Stats</samp></b></p>
+     <img src="https://github-readme-stats.vercel.app/api?username=msandypr&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+    <p align="center">════ ⋆★⋆ ════<br></p>
+    <p align="center"><b><samp>As a veteran on this battlefield of life, I've gotten used to losing. That's why I always hate nice girls</samp></b></p>
+    <samp>
+    <p align="center">════ ⋆★⋆ ════<br></p>
+</samp>
+  </p>
+</details>
+  
+</details>
+
+<p align="right"><b>&#9499</b></p>

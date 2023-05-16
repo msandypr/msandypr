@@ -9,7 +9,7 @@
 <p align="center"><samp>
 Software Engineer • Cloud Engineer
 <br>
-Currently Working as SysAdmin in <b><a href="https://cyberweb.id">Cyber Web Indonesia/a></b>
+Currently Working as IT Manager in <b><a href="https://cyberweb.id">Cyber Web Indonesia</a></b>
 </samp></p>
 
 <details align="center" id="details">

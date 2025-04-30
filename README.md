@@ -24,10 +24,8 @@ Currently Working as Programmer at <b><a href="https://beacukai.go.id">Indonesia
      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=python&logoColor=white"/></a>
      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=MySQL&logoColor=white"/></a>
      </p>
-     <p id="med"><b><samp>My Social Media</samp></b></p>
+     <p id="med"><b><samp>Contact Me</samp></b></p>
      <p align="center">
-     <a href="https://www.instagram.com/msandypr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-     <a href="https://www.linkedin.com/in/msandypr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://discordapp.com/users/884592049314222141/"><img src="https://img.shields.io/badge/Discord-1D0F6B?style=for-the-badge&logo=discord&logoColor=white"></a>
      </p>
 <!--      <p id="med"><b><samp>My Github Stats</samp></b></p>

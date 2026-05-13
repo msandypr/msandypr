@@ -1,43 +1,20 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/QDymFZX/IMG-5220-removebg-preview.png" height="120px"/>
+  <img src="https://i.ibb.co.com/QDymFZX/IMG-5220-removebg-preview.png" height="100px"/>
 </p>
-<h4 align="center" id="begin"><samp>• Hello World!, I'm <b><a>Muhammad Sandy Putra Riyadi</a> •</b></h4>
-<h4 align="center" id="begin"><samp><b><a href="https://msandypr.com">msandypr.com</a></h4>
 
-<p><b>&#9487</b></p>
+<h3 align="center">Muhammad Sandy Putra Riyadi</h3>
 
-<p align="center"><samp>
-Fullstack Developer • IT Enthusiast
-<br>
-Currently Working as Programmer at <b><a href="https://beacukai.go.id">Indonesian Directorate General of Customs and Excise</a></b>
-</samp></p>
+<p align="center">
+  <samp>Software Engineer — Jakarta, Indonesia</samp>
+</p>
 
-<details align="center" id="details">
-   <p align="center">
-     <p><b><samp>Programming Languages</samp></b></p></b>
-     <p align="center">
-     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%E34F26.svg?&style=for-the-badge&color=orange&logo=html5&logoColor=white"/></a>
-     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=css3&logoColor=white"/></a>
-     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%E34F26.svg?&style=for-the-badge&color=purple&logo=php&logoColor=white"/></a>
-     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%E34F26.svg?&style=for-the-badge&color=yellow&logo=JavaScript&logoColor=white"/></a>
-     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=TypeScript&logoColor=white"/></a>
-     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=python&logoColor=white"/></a>
-     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%E34F26.svg?&style=for-the-badge&color=blue&logo=MySQL&logoColor=white"/></a>
-     </p>
-     <p id="med"><b><samp>Contact Me</samp></b></p>
-     <p align="center">
-     <a href="https://discordapp.com/users/884592049314222141/"><img src="https://img.shields.io/badge/Discord-1D0F6B?style=for-the-badge&logo=discord&logoColor=white"></a>
-     </p>
-<!--      <p id="med"><b><samp>My Github Stats</samp></b></p>
-     <img src="https://github-readme-stats.vercel.app/api?username=msandypr&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br> -->
-    <p align="center">════ ⋆★⋆ ════<br></p>
-    <p align="center"><b><samp>As a veteran on this battlefield of life, I've gotten used to losing. That's why I always hate nice girls</samp></b></p>
-    <samp>
-    <p align="center">════ ⋆★⋆ ════<br></p>
-</samp>
-  </p>
-</details>
-  
-</details>
+<p align="center">
+  <samp>Developer at <a href="https://beacukai.go.id">Directorate General of Customs and Excise</a></samp>
+</p>
 
-<p align="right"><b>&#9499</b></p>
+<p align="center">
+  <a href="mailto:msandypr.dev@gmail.com"><img src="https://img.shields.io/badge/Email-FC0303?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/884592049314222141/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/msandypr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=googledocs&logoColor=white"/></a>
+  <a href="https://msandypr.dev"><img src="https://img.shields.io/badge/Website-2E5725?style=flat-square&logo=googledocs&logoColor=white"/></a>
+</p>

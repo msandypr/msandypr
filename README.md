@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/QDymFZX/IMG-5220-removebg-preview.png" height="100px"/>
+  <img src="https://i.ibb.co.com/3yYWQw5T/MSANDYPR-BANNER-1.png" height="127px"/>
 </p>
 
-<h3 align="center">Muhammad Sandy Putra Riyadi</h3>
-
-<p align="center">
-  <samp>Software Engineer — Jakarta, Indonesia</samp>
-</p>
+### <p align="center">Muhammad Sandy Putra Riyadi</p>
 
 <p align="center">
-  <samp>Developer at <a href="https://beacukai.go.id">Directorate General of Customs and Excise</a></samp>
+  <samp><b>Software Engineer</b> — Jakarta, Indonesia</samp>
+  <br>
+  <samp>Developer at <a href="https://beacukai.go.id" target="_blank">Directorate General of Customs and Excise</a></samp>
 </p>
 
-<p align="center">
-  <a href="mailto:msandypr.dev@gmail.com"><img src="https://img.shields.io/badge/Email-FC0303?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/884592049314222141/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/msandypr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=googledocs&logoColor=white"/></a>
-  <a href="https://msandypr.dev"><img src="https://img.shields.io/badge/Website-2E5725?style=flat-square&logo=googledocs&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![Email](https://shieldcn.dev/badge/Email-EA4335.svg?logo=gmail&logoColor=fff&variant=branded)](mailto:msandypr.dev@gmail.com)
+[![Discord](https://shieldcn.dev/badge/Discord-5865F2.svg?logo=discord&logoColor=fff&variant=branded)](https://discordapp.com/users/884592049314222141/)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=fff&variant=branded)](https://linkedin.com/in/msandypr)
+[![Website](https://shieldcn.dev/badge/Website-1F4D1C.svg?logo=google-terminal&logoColor=fff&variant=branded)](https://msandypr.dev)
+
+</div>
